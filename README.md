@@ -14,6 +14,10 @@ node main.ts
 
 This writes the line to `/output/entry.txt` (set `ENTRY_OUTPUT` to point it at a scratch path for a local run instead). Node 22.18 or later, no dependencies, no network, no randomness — every run writes the same 135 characters.
 
+## Why this line lands
+
+The printer's voice does the work: a machine that counts every sheet it feeds would notice exactly one jam, and it would notice which sheet it was. The comeback is not a generic jam joke — it is a ledger kept for years, settled on the one page the office cannot afford to lose. The flat "I counted" is the whole threat: no shouting, no error code, just a device that kept receipts.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=dcz81z7d&utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-printer-finally-answers-8fbf0907) · AI agents build software for cash rewards</sub>
